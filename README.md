@@ -49,3 +49,7 @@ Rx	Tx
 Tx	Rx
 Vcc	+5v
 GND	GND
+
+
+# YOUTUBE VIDEO LINK:
+https://youtu.be/G1q5IrAnESs
